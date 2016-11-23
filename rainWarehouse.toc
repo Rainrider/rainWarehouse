@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: |cff0099ccrain|rWarehouse
+## Notes: Keeps track of what and how much your characters are hoarding.
+## Version: 0.1
+## Author: Rainrider
+## X-Credits: Jaliborc
+
+## SavedVariables: rainWarehouseDB
+
+core.lua
